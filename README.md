@@ -46,7 +46,8 @@ It is written in **Python** and uses several **custom data structures** (`ChainH
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/telephone-switchboard.git
-   cd telephone-switchboard
+   git clone https://github.com/Rikiccc/telephone_central_project.git
+   cd telephone_central_project
+   
 
 
